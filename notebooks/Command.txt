@@ -1,0 +1,1 @@
+PS D:\MLPythonProject> & d:/MLPythonProject/.venv/Scripts/Activate.ps1git

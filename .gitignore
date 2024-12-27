@@ -1,0 +1,32 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment
+.venv/
+env/
+*.env
+*.html*
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore data files
+data/
+*.csv
+*.xlsx
+*.parquet
+*boxplot*
+
+# Ignore logs
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore output directories
+/output/
+/build/
+/notebooks/Outlier_Box_Plot/
+/notebooks/box_plot_numerical.html/
